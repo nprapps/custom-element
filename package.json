@@ -1,7 +1,7 @@
 {
   "name": "@nprapps/custom-element",
-  "version": "1.0.0",
-  "description": "A base class for custom elements",
+  "version": "1.0.1",
+  "description": "Minimum viable base class for web components",
   "main": "custom-element.umd.js",
   "module": "custom-element.js",
   "scripts": {
