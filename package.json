@@ -1,0 +1,21 @@
+{
+  "name": "@nprapps/custom-element",
+  "version": "1.0.0",
+  "description": "A base class for custom elements",
+  "main": "custom-element.umd.js",
+  "module": "custom-element.js",
+  "scripts": {
+    "build": "rollup --config",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thomas Wilburn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nprapps/custom-element.git"
+  },
+  "devDependencies": {
+    "rollup": "^2.52.2"
+  }
+}
